@@ -1,0 +1,17 @@
+﻿database,database_type,version,row_count
+AHCI,web_of_science_core,2026-06,1799
+AMI,authoritative,2022,55
+AMI,core,2022,605
+AMI,extended,2022,775
+AMI,indexed,2022,447
+AMI,top,2022,22
+CSCD,core,2025-2026,1098
+CSCD,extended,2025-2026,366
+CSSCI,extended,2025-2026,261
+CSSCI,source,2025-2026,674
+Chinese Science and Technology Core,statistical_source,2025,2693
+EI Compendex,chinese_serials,2025-05-01,361
+EI Compendex,serials,2025-04-20,5701
+PKU Core,core,2023,1987
+SCIE,web_of_science_core,2026-06,9430
+SSCI,web_of_science_core,2026-06,3538
